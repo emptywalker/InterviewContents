@@ -1,3 +1,6 @@
 ### J_Knight问题与总结
 这是总结J_Knigth 2017年6月在[cocoa开发者社区发布面试总结](https://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652549564&idx=3&sn=e300ddc00dbf95235ac0bc31a7a45e71&chksm=bcd2f4b28ba57da4729debf22508469509ac7e3eddb5202cba110e2c9921ce620935b73ee71d&scene=0&key=2872d7939faa95a41fd36f12e55412d0cbcd56432abb4ab0632af9649774c000f3f3e4f6f897169f233cc72be71c07108df6e712ee47e9fba6da5c468aac57381d617f585b8fccd1f874a92db1c33b23&ascene=0&uin=MjExOTc0ODE4MQ%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.6+build(15G1510)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=CqaOdk7GSP2mp6cCwdtD2ZoshSe0Quotjq0J8VIOehR)的面试题,下面是具体的题目，已经我总结的答案
 
+
+
+
